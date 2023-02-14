@@ -3,7 +3,6 @@
 import 'package:flutter/material.dart';
 import 'quote_card.dart';
 
-
 class QuoteList extends StatefulWidget {
   const QuoteList({super.key});
 
